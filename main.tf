@@ -17,3 +17,5 @@ resource "null_resource" "example" {
     command = "echo 'This is a test null resource'"
   }
 }
+
+
